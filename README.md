@@ -7,7 +7,7 @@
 **Claude Code（一行命令）**
 
 ```bash
-npx skills add <你的GitHub用户名>/<仓库名>
+npx skills add yuyusu497-tech/seamless-object-removal
 ```
 
 **Claude Code（手动）**：把 `seamless-object-removal` 文件夹复制到
